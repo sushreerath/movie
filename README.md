@@ -1,1 +1,1 @@
-https://sushreerath.github.io/movie/.html
+https://sushreerath.github.io/movie/movie.html
